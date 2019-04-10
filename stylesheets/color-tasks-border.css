@@ -22,7 +22,7 @@ tr.even.status-1, table.list tbody tr.even.status-1:hover { background-color: #F
 tr.even.status-1 { background: #fd806a; color: #000;}
 tr.status-1 a { color: #000;}
 tr.status-1 a:hover { color: #000;}
-tr.odd.status-1 td, tr.even.status-1 td { }
+tr.odd.status-1 td, tr.even.status-1 td { border:1px solid #FFFFFF;}
 
 /* 2 In progress (Em andamento) */
 tr.odd.status-2, table.list tbody tr.odd.status-2:hover { background-color: #FFFFFF; }
@@ -31,7 +31,7 @@ tr.even.status-2, table.list tbody tr.even.status-2:hover { background-color: #F
 tr.even.status-2 { background: #87b4ff; color: #023999;}
 tr.status-2 a {color: #023999; }
 tr.status-2 a:hover { color: #023999;}
-tr.odd.status-2 td, tr.even.status-2 td { }
+tr.odd.status-2 td, tr.even.status-2 td { border:1px solid #FFFFFF;}
 
 /* 3 Resolved (Resolvida) */
 tr.odd.status-3, table.list tbody tr.odd.status-3:hover { background-color: #FFFFFF; }
@@ -40,7 +40,7 @@ tr.even.status-3, table.list tbody tr.even.status-3:hover { background-color: #F
 tr.even.status-3 { background: #b0f0b0; color: #034903;}
 tr.status-3 a {color: #034903; }
 tr.status-3 a:hover { color: #034903;}
-tr.odd.status-3 td, tr.even.status-3 td { }
+tr.odd.status-3 td, tr.even.status-3 td { border:1px solid #FFFFFF;}
 
 /* 4 Need feedback (Aguardando) */
 tr.odd.status-4, table.list tbody tr.odd.status-4:hover { background-color: #FFFFFF; }
@@ -49,7 +49,7 @@ tr.even.status-4, table.list tbody tr.even.status-4:hover { background-color: #F
 tr.even.status-4 { background: #f5d465; color: #180d04;}
 tr.status-4 a { color: #180d04; }
 tr.status-4 a:hover { color: #180d04;}
-tr.odd.status-4 td, tr.even.status-4 td { }
+tr.odd.status-4 td, tr.even.status-4 td { border:1px solid #FFFFFF;}
 
 /* 5 Closed (Finalizada) */
 tr.odd.status-5, table.list tbody tr.odd.status-5:hover { background-color: #FFFFFF; }
@@ -58,7 +58,7 @@ tr.even.status-5, table.list tbody tr.even.status-5:hover { background-color: #F
 tr.even.status-5 { background: #e0e0e0; color: #494848;}
 tr.status-5 a { color: #494848;}
 tr.status-5 a:hover { color: #494848;}
-tr.odd.status-5 td, tr.even.status-5 td { }
+tr.odd.status-5 td, tr.even.status-5 td { border:1px solid #FFFFFF;}
 
 /* 8 Confirmed (Reaberta) */
 tr.odd.status-8, table.list tbody tr.odd.status-8:hover { background-color: #FFFFFF; }
@@ -67,7 +67,7 @@ tr.even.status-8, table.list tbody tr.even.status-8:hover { background-color: #F
 tr.even.status-8 { background: #fa9c75; color: #180d04;}
 tr.status-8 a { color: #180d04;}
 tr.status-8 a:hover { color: #180d04;}
-tr.odd.status-8 td, tr.even.status-8 td { }
+tr.odd.status-8 td, tr.even.status-8 td { border:1px solid #FFFFFF;}
 
 /* 10 Cancelada */
 tr.odd.status-10, table.list tbody tr.odd.status-10:hover { background-color: #FFFFFF; }
@@ -76,7 +76,7 @@ tr.even.status-10, table.list tbody tr.even.status-10:hover { background-color: 
 tr.even.status-10 { background: #c9ccc4; color: #1a1919;}
 tr.status-10 a { color: #1a1919; }
 tr.status-10 a:hover { color: #1a1919; }
-tr.odd.status-10 td, tr.even.status-10 td { }
+tr.odd.status-10 td, tr.even.status-10 td { border:1px solid #FFFFFF;}
 
 /* 11 Atribuida */
 tr.odd.status-11, table.list tbody tr.odd.status-11:hover { background-color: #FFFFFF; }
@@ -85,7 +85,7 @@ tr.even.status-11, table.list tbody tr.even.status-11:hover { background-color: 
 tr.even.status-11 { background: #FFBEB8; color: #180d04;}
 tr.status-11 a { color: #180d04;}
 tr.status-11 a:hover { color: #180d04;}
-tr.odd.status-11 td, tr.even.status-11 td { }
+tr.odd.status-11 td, tr.even.status-11 td { border:1px solid #FFFFFF;}
 
 /* 15 Em Homologacao */
 tr.odd.status-15, table.list tbody tr.odd.status-15:hover {background-color: #FFFFFF; }
@@ -94,7 +94,7 @@ tr.even.status-15, table.list tbody tr.even.status-15:hover { background-color: 
 tr.even.status-15 { background: #f2f261; color: #1b1713;}
 tr.status-15 a { color: #1b1713;}
 tr.status-15 a:hover { color: #1b1713;}
-tr.odd.status-15 td, tr.even.status-15 td { }
+tr.odd.status-15 td, tr.even.status-15 td { border:1px solid #FFFFFF;}
 
 /* 16 Aprovado */
 tr.odd.status-16, table.list tbody tr.odd.status-16:hover { background-color: #FFFFFF; }
@@ -103,7 +103,7 @@ tr.even.status-16, table.list tbody tr.even.status-16:hover { background-color: 
 tr.even.status-16 { background: #3cc08d; color: #180d04;}
 tr.status-16 a { color: #180d04; }
 tr.status-16 a:hover { color: #180d04; }
-tr.odd.status-16 td, tr.even.status-16 td { }
+tr.odd.status-16 td, tr.even.status-16 td { border:1px solid #FFFFFF;}
 
 /* 17 Reprovado */
 tr.odd.status-17, table.list tbody tr.odd.status-17:hover { background-color: #FFFFFF; }
@@ -112,4 +112,4 @@ tr.even.status-17, table.list tbody tr.even.status-17:hover { background-color: 
 tr.even.status-17 { background: #ff8080; color: #180d04;}
 tr.status-17 a { color: #180d04; }
 tr.status-17 a:hover { color: #180d04;}
-tr.odd.status-17 td, tr.even.status-17 td { }
+tr.odd.status-17 td, tr.even.status-17 td { border:1px solid #FFFFFF;}
